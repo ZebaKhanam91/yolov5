@@ -1,0 +1,1 @@
+python3 train.py --batch 8 --epochs 10 --data uadetrac.yaml --weights '' --cfg /home/vj/yolov5/models/yolov5s.yaml --device 0
